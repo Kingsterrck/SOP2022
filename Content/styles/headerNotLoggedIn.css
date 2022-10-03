@@ -1,0 +1,36 @@
+#header {
+    height: 60px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    border-bottom: gold 5px solid;
+    background-color: #323232;
+}
+.centerContainer {
+    overflow: hidden;
+    zoom: 1;
+}
+#headerLeft {
+    float: left;
+}
+#headerLeft a {
+    text-decoration: none;
+    color: white;
+    margin: 20px 10px;
+    line-height: 23px;
+}
+#logo {
+    float: left;
+}
+#logo h1 {
+    color: gold;
+}
+#headerRight {
+    float: right;
+}
+#headerRight a {
+    text-decoration: none;
+    color: white;
+    margin: 20px 10px;
+    line-height: 23px;
+}
